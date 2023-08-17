@@ -1,0 +1,1 @@
+"C:\CodiumService\7zip\7za" a -mx1 -mmt "C:\c_nuevo\Results/Laravel_MySQL_c5312d45c2a842ebb131b02115ab4116_ff2b12513d1a44948a7e7fbabde0697a.zip" "C:\SC/c5312d45-c2a8-42eb-b131-b02115ab4116/ff2b1251-3d1a-4494-8a7e-7fbabde0697a/Laravel/MySQL" 

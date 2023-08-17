@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+.strength_meter{
+	height:23px;
+	width: 100%;
+	background:silver;
+	
+}
+.strength_meter div{
+	height:23px;
+	width:0%;
+	height:23px;
+	text-align:center;
+	color:black;
+	font-weight:bold;
+	line-height:23px;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	-ms-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+.veryweak{
+background-color: #FFA0A0;
+border-color: #F04040!important;
+width:25%!important;
+}
+.weak{
+background-color: #FFB78C;
+border-color: #FF853C!important;
+width:50%!important;
+}
+.medium{
+background-color: #FFEC8B;
+border-color: #FC0!important;
+width:75%!important;
+}
+.strong{
+background-color: #C3FF88;
+border-color: #8DFF1C!important;
+width:100%!important;
+}
